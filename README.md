@@ -3,7 +3,7 @@
 This project analyzes the **Brazilian E-Commerce Public Dataset (Olist)** using **SQL, Python, and Power BI** to uncover insights into sales, customers, sellers, reviews, and payments. The goal is to build a structured **star schema** and create **interactive dashboards** for business intelligence.
 
 ---
-
+ 
 ### 📂 Project Structure
 
 ```
