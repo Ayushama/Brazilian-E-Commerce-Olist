@@ -34,7 +34,7 @@ Brazilian-E-Commerce-Olist/
 * **Python EDA** – Exploratory Data Analysis with pandas, matplotlib, seaborn.
 * **Power BI Dashboard** – Multi-dashboard visualization (Sales, Customers, Sellers, Payments).
 * **Star Schema** – Modeled fact & dimension tables for optimized reporting.
-
+ 
 ---
 ### 📊 Dashboards
 
