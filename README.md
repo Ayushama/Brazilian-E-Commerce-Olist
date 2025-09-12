@@ -28,7 +28,7 @@ Brazilian-E-Commerce-Olist/
 
 ---
 
-### 🔑 Key Features
+### 🔑 Key Features 
 
 * **SQL Analysis** – Queries for customer behavior, order performance, payments, and reviews.
 * **Python EDA** – Exploratory Data Analysis with pandas, matplotlib, seaborn.
